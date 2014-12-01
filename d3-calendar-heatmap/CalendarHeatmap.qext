@@ -1,0 +1,8 @@
+{
+    "name": "Calendar Heatmap",
+    "description": "day / hour calendar Heatmap",
+    "icon": "extension",
+    "type": "visualization",
+    "version": "0.1",
+    "author": "brz"
+}
